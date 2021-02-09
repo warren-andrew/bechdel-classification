@@ -1,1 +1,1 @@
-# bechdel-class
+# bechdel-classification

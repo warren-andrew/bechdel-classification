@@ -8,3 +8,5 @@ The Bechdel Test is a measure of the active presence of women in fiction. It pos
 Can characteristics about a movie's production team determine whether the movie passes the Bechdel Test?
 * Data: Bechdel Test Movie List, IMDb
 * Features: Gender of cast, gender of director, gender of writing team, production studio
+* Tools Used: Pandas, SQL, Seaborn, Python Gender-Guesser, sklearn
+* Possible impacts of your project: Gauge viewership on a movie based on whether it avoids bias against women.

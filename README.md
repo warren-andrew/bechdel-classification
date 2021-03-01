@@ -1,4 +1,4 @@
-# Project proposal: Predicting the Bias against Women's Roles in Movies
+# Predicting the Bias against Women's Roles in Movies
 The Bechdel Test is a measure of the active presence of women in fiction. It poses whether the work of fiction meets the following criteria:
 * The work has two named women.
 * These women talk to each other.
